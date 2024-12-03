@@ -3,4 +3,4 @@
 
 # Rules of engagement
 I'm using python3, in a jupyter notebook;
-I will update this repo, 1 day after the days event ends. UTC+5.30
+I will update this repo, after the leaderboard fills up.
